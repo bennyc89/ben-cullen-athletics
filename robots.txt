@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /demo.html
+Disallow: /demo-scan.html
+
+Sitemap: https://bencullenathletics.co.uk/sitemap.xml
